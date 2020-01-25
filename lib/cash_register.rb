@@ -37,5 +37,3 @@ class CashRegister
     self.total = @total - @transactions.pop
   end
 end
-
-
